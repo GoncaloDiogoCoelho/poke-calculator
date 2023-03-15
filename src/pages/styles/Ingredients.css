@@ -1,0 +1,13 @@
+.ingredient-type {
+    text-align: center;
+}
+
+.ingredient-type-list {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+
+.ingredient-type-list h4 {
+    padding: 15px 30px;
+}

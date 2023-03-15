@@ -1,0 +1,135 @@
+{
+  "rice": [
+    {
+      "type": "sushi rice",
+      "quantity": "2 cups",
+      "preparation": "cooked",
+      "price": 2.5
+    },
+    {
+      "type": "brown sushi",
+      "quantity": "2 cups",
+      "preparation": "cooked",
+      "price": 3
+    }
+  ],
+  "fish": [
+    {
+      "type": "ahi tuna",
+      "quantity": "1 lb",
+      "preparation": "cubed",
+      "price": 20.0
+    },
+    {
+      "type": "salmon",
+      "quantity": "1 lb",
+      "preparation": "cubed",
+      "price": 18.0
+    },
+    {
+      "type": "yellowtail",
+      "quantity": "1 lb",
+      "preparation": "cubed",
+      "price": 22.0
+    },
+    {
+      "type": "octopus",
+      "quantity": "1 lb",
+      "preparation": "sliced",
+      "price": 16.0
+    },
+    {
+      "type": "shrimp",
+      "quantity": "1 lb",
+      "preparation": "peeled and deveined",
+      "price": 14.0
+    }
+  ],
+  "vegetables": [
+    {
+      "type": "avocado",
+      "quantity": "2",
+      "preparation": "sliced",
+      "price": 2.5
+    },
+    {
+      "type": "cucumber",
+      "quantity": "1",
+      "preparation": "sliced",
+      "price": 1.0
+    },
+    {
+      "type": "carrots",
+      "quantity": "2",
+      "preparation": "julienned",
+      "price": 0.75
+    },
+    {
+      "type": "edamame",
+      "quantity": "1 cup",
+      "preparation": "shelled",
+      "price": 1.5
+    },
+    {
+      "type": "green onion",
+      "quantity": "2",
+      "preparation": "sliced",
+      "price": 0.5
+    },
+    {
+      "type": "radish",
+      "quantity": "2",
+      "preparation": "thinly sliced",
+      "price": 0.75
+    },
+    {
+      "type": "seaweed salad",
+      "quantity": "1 cup",
+      "price": 3.0
+    },
+    {
+      "type": "pickled ginger",
+      "quantity": "1/4 cup",
+      "preparation": "thinly sliced",
+      "price": 0.5
+    },
+    {
+      "type": "red cabbage",
+      "quantity": "1 cup",
+      "preparation": "shredded",
+      "price": 1.0
+    }
+  ],
+  "sauce": {
+    "type": "soy sauce",
+    "quantity": "1/4 cup",
+    "price": 0.5
+  },
+  "toppings": [
+    {
+      "type": "sesame seeds",
+      "quantity": "1 tbsp",
+      "price": 0.25
+    },
+    {
+      "type": "masago",
+      "quantity": "1/4 cup",
+      "price": 2.0
+    },
+    {
+      "type": "sriracha",
+      "quantity": "to taste",
+      "price": 0.25
+    },
+    {
+      "type": "wasabi",
+      "quantity": "1 tsp",
+      "price": 1.0
+    },
+    {
+      "type": "fried shallots",
+      "quantity": "1/4 cup",
+      "price": 1.5
+    }
+  ]
+}

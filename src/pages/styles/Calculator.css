@@ -1,0 +1,8 @@
+.fishes {
+    display: flex;
+    flex-direction: row;
+}
+
+.fishes p {
+    padding: 15px;
+}
