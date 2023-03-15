@@ -8,8 +8,9 @@ function Calculator() {
   return (
     <>
       <div>
-        Show random suggestions of made bowls <br />
-        Show random ingredients in carrousel <br />
+        Here should go the actual calculator <br/>
+        Show random suggestions of made bowls on carrousel to right <br />
+        Show random ingredients in carrousel to left<br />
         In this section, have a button on the side to return to the main
         calculator is the person wants to see each ingredients info
       </div>

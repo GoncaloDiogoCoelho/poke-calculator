@@ -8,6 +8,13 @@
     justify-content: center;
 }
 
-.ingredient-type-list h4 {
+.ingredient-type-each{
     padding: 15px 30px;
+
 }
+.ingredient-type-each h4, h6{
+    padding: 5px;
+    margin-block-start: 0;
+    margin-block-end: 0;
+}
+
